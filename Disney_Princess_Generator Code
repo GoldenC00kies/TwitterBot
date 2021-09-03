@@ -1,0 +1,13 @@
+{
+	"origin": ["#introduction# the #adj1# #adj2# princess of the #kingdom1# #kingdom2#. My mother is #adj3# #adj4# and my father is a #adj5# #adj6#."]
+,	"introduction":["Nice to meet you, I'm", "Hello everyone, I'm", "You haven't heard of me? That's strange. Well, I am", "OMG! I'm so excited to meet all of you! I'm", "It's so good to finally meet you! I'm"]
+,	"adj1": ["beautiful","brave","courageous","clever","starlight","apple","brainy","exquisite", "pumpkin", "cunning","gallant", "magical", "curious", "determined", "stalwart", "energetic", "fancy", "friendly"]
+,	"adj2": ["fairy", "lego", "dinosaur", "breakfast", "disco", "storm", "angel", "vampire"]
+,	"kingdom1": ["Unicorn","Dark","Decaying","Elastic","Magical","Fairy","Dryad","Mermaid","Dragon","Duck","Kitten"]
+,	"kingdom2": ["Kingdom","Monarchy","Empire","Realm","Aristocracy"]
+,	"adj3": ["an evil", "a devious", "a malicious", "a deceptive"]
+,	"adj4": ["sorceress", "fairy", "dragon", "witch"]
+,	"adj5": ["brilliant", "noble", "wise", "kind", "caring"]
+,	"adj6": ["adventurer", "king", "aristocrat"]
+
+}
